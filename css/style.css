@@ -282,6 +282,10 @@ a {
 
 }
 
+b{
+	color: black;
+}
+
 .subtitle {
 	text-align: center;
 	font-size: 18px;
